@@ -26,8 +26,9 @@ Log regression used with scikit-learn libraries (sklearn.model_selection, sklear
 
 ## Model Outputs: 
 Pairplots, ROC Curve, feature importance from log regression.
- ![image](https://github.com/user-attachments/assets/793c52fb-8285-4fe1-b91e-eee644e9a30b) 
- ![image](https://github.com/user-attachments/assets/5ec08417-6cfc-4d84-aae6-ff01a626913f)
+
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/793c52fb-8285-4fe1-b91e-eee644e9a30b"/>
+<img width="385" alt="image" src="https://github.com/user-attachments/assets/5ec08417-6cfc-4d84-aae6-ff01a626913f"/>
 
 ## Limitations:
 Challenges in selection of features for better model performance.
